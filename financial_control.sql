@@ -62,10 +62,10 @@ DELETE FROM transactions WHERE id = 1;
 
 select * from  transactions;
 
-Id  Tipo    Nome            Valor   Data_de_cadastro
-2	Venda	Camisa	        49.90	2023-09-15
-3	Venda	Tenis	        79.90	2023-09-15
-4	Venda	Tenis	        119.90	2023-09-14
-5	Venda	Sandalha	    149.90	2023-09-13
-6	Venda	Sandalha	    149.90	2023-09-13
+Id  Tipo    Nome        Valor   Data_de_cadastro
+2	Venda	Camisa      49.90	2023-09-15
+3	Venda	Tenis       79.90	2023-09-15
+4	Venda	Tenis       119.90	2023-09-14
+5	Venda	Sandalha    149.90	2023-09-13
+6	Venda	Sandalha    149.90	2023-09-13
 				
